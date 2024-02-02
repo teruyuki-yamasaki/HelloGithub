@@ -6,3 +6,4 @@
 
 ## Step 2: Example: matplotlib 
 ![Alt Text](materials/sin_noised.png)
+![Alt Text](materials/gaussian_filter.png)
